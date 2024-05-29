@@ -21,12 +21,12 @@ Hashsan is a lookup tool that searches for original text from text that has been
 ## Installation
 
 ```bash
-git clone https://github.com/X-Projetion/adfindersan && cd adfindersan
+git clone https://github.com/X-Projetion/hashsan/ && cd hashsan
 pip install -r requirements.txt
 ```
 
 ## Usage
-- python find.py -p xxxxx
+- python main.py -p xxxxx
 
 ## Help
 ```bash
