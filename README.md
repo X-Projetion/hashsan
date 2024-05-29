@@ -15,7 +15,7 @@ Hashsan is a lookup tool that searches for original text from text that has been
 ## Resources
 - [Installation](#installation)
 - [Usage](#usage)
-- - [Help](#help)
+- [Help](#help)
 - [Disclaimer](#Disclaimer)
 
 ## Installation
